@@ -1,7 +1,7 @@
 ---
 name: User Story Template
 about: For adding user stories - Kanban
-title: 'Story: '
+title: 'User Story: TITLE'
 labels: ''
 assignees: ''
 
